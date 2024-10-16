@@ -94,6 +94,9 @@
     display: none;
   }
   @media screen and (min-width: 797px) {
+    .name{
+      margin-top: 5px;
+    }
     .nav__link {
       display: block;
       position: static;
@@ -101,7 +104,7 @@
       margin-right: 20px;
       background: none;
     }
-  
+    
     .nav__link a {
       display: inline-block;
       padding: 15px 20px;
